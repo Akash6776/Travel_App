@@ -1,3 +1,8 @@
+# Travel_App
+It is a Travel application where you can select the holiday package in india.
+There should be a work-life balance and modern day travelers need to plan their trips, here comes the usage of travel applications.A travel app is a Web application that helps a person make travel reservations and browse travel packages. Here you can search destination and book the package according to your desired date and budgets.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
